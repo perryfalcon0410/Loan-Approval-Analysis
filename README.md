@@ -107,6 +107,7 @@ To run the project, ensure you have the following setup:
 
 - `person_income` and `loan_int_rate` were significant predictors of loan approval.
 - Individuals with higher credit scores do NOT have a greater likelihood of loan approval.
+- The bank will likely give a loan for debt consolidation, home improvement, and medical intents.
 - Balancing the dataset significantly improved model performance.
 
 ---
