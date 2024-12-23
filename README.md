@@ -59,10 +59,7 @@ The detail of the project can be found here [Loan Approval Analysis](https://git
 
 - Training models using logistic regression, decision trees, and ensemble methods.
 - Tuning hyperparameters to improve accuracy.
-- Evaluating model performance with metrics:
-  - Precision, Recall, F1-Score
-  - Receiver Operating Characteristic (ROC) Curve
-  - Area Under the Curve (AUC)
+- Evaluating model performance with Precision, Recall, F1-Score
 
 ---
 
