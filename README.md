@@ -113,7 +113,7 @@ To run the project, ensure you have the following setup:
 
 - Extend the analysis by incorporating real-world data.
 - Build a web application for real-time loan eligibility predictions.
-- Investigate additional advanced ML algorithms like XGBoost or neural networks.
+- Investigate additional advanced ML algorithms like Neural Networks.
 
 ---
 
