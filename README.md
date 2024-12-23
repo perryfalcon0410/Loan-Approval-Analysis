@@ -31,7 +31,7 @@ The dataset is structured for feature analysis and predictive modeling, making i
 ---
 
 ## Project Detail
-The detail of the project can be found here [Loan Approval Analysis](https://github.com/perryfalcon0410/Loan-Approval-Analysis/blob/main/Loan_approval_analysis.ipynb)
+The details of the project can be found here [Loan Approval Analysis](https://github.com/perryfalcon0410/Loan-Approval-Analysis/blob/main/Loan_approval_analysis.ipynb)
 
 ## Project Workflow
 
