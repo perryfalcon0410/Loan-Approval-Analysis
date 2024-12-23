@@ -30,6 +30,9 @@ The dataset is structured for feature analysis and predictive modeling, making i
 
 ---
 
+## Project Detail
+The detail of the project can be found here [Loan Approval Analysis](https://github.com/perryfalcon0410/Loan-Approval-Analysis/blob/main/Loan_approval_analysis.ipynb)
+
 ## Project Workflow
 
 ### 1. Data Exploration
@@ -102,8 +105,8 @@ To run the project, ensure you have the following setup:
 
 ## Key Findings
 
-- `person_income` and `loan_int_rate` were found to be significant predictors of loan approval.
-- Individuals with higher credit scores have a greater likelihood of loan approval.
+- `person_income` and `loan_int_rate` were significant predictors of loan approval.
+- Individuals with higher credit scores do NOT have a greater likelihood of loan approval.
 - Balancing the dataset significantly improved model performance.
 
 ---
